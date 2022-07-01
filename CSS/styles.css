@@ -1,0 +1,19 @@
+
+  body {
+    background-color: blue;
+  }
+  hr {
+    border-style: dotted none none none;
+    width: 5%;
+    border-color: grey;
+    border-hieght: 20px;
+  }
+  h1 {
+   color: #66BF8F;
+  }
+  h3 {
+    color: purple;
+  }
+  img {
+    .circular: 100%;
+  }
